@@ -27,7 +27,7 @@ Hi! This is my **first dive into the world of electronics and robotics**. I’m 
 
 I'm just starting out in robotics, and this first project has already taught me a lot about electronics and project design through trial and error. However, I’m sure I’ve missed things along the way. **If you have any feedback, tips, or advice, I’d love to hear them!**
 
-[Project on Thingiverse](thingiverse.com/thing:6814072)
+[Project on Thingiverse](https://www.thingiverse.com/thing:6814072)
 
 
 ---
